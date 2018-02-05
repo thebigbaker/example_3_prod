@@ -100,3 +100,8 @@ sr.reveal('#message-group', {
   origin: 'bottom',
   distance: '300px'
 });
+sr.reveal('.contact-button', {
+  duration: 2000,
+  origin: 'left',
+  distance: '300px'
+});
